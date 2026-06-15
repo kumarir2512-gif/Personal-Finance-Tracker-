@@ -16,5 +16,19 @@ This project analyzes personal finance data and predicts savings rates using Mac
 - Data Visualization
 - Dashboard
 
+  ## Dataset
+This dataset contains:
+- Monthly Income
+- Monthly Expenses
+- Savings Rate
+- Credit Score
+- Debt-to-Income Ratio
+
+## Machine Learning Model
+Linear Regression
+
+## Results
+The model predicts savings rate based on financial parameters.
+
 ## Author
 Riya Kumari
